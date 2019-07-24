@@ -12,7 +12,9 @@ Mathematical typing (LaTex based) with fully randomized options.
 
 High quality of image inserts; randomized tables / column matching, MCQ, fill in the blanks with user friendly clear interface with response time of micro seconds.
 
-Universities/Institutes can utilize it as their part of educational (advantage) package and can put institutes's logo, slogan etc. on it.
+Single command to create entire quiz in pdf and answer key with detailed results. 
+
+Universities/Institutes can utilize it as their part of educational (advantage) package and can put a institutes's logo, slogan etc. on it.
 
 Institutes/one can easily monitor, how well their students have performed and put the emphases on the weaker part of the curriculum taught and can hint about the effectiveness of the pedagogy adopted so far. It helps to keep their core study material short and simple.  
 
@@ -20,4 +22,4 @@ No data base like intricacies, simple to use text file based input and highest p
 
 Runs on all major Linux distributions.
 
-Currently Autodidact is provided with single user  licence in student, institutional and commercial versions with demo and instruction manual (for overseas a soft copy). Licence fee for institutes (registered professors) are nearly half of the usual single user licences fees' provided as a special promotional package. Just support the opensource community as it has future. Special promotional distributions for a class of students are provided at very affordable prices at one go. If more than 100 licences are needed at one go, it is better to be an Autodidact supported institute, which brings its own additional advantages. Every Autodidact licence is supported for two years including updates and upgrades. Special features could be implemented on request unless it is counter-intuitive to the process of common learning. For malfunctioning, bugs etc. reported will be updated/upgraded as soon as possible. 
+Currently Autodidact is provided with single user  licence in student, institutional and commercial versions with demo and instruction manual (for overseas a soft copy). Licence fee for institutes (registered professors) are nearly half of the usual single user licences fees' provided as a special promotional package. Just support the opensource community as it has future. Special promotional distributions for a class at very affordable prices at one go. If more than 100 licences are needed at one go, it is better to be an Autodidact supported institute, which brings its own additional advantages. Every Autodidact licence is supported for two years including updates and upgrades. Special features could be implemented on request unless it is counter-intuitive to the process of common learning. For malfunctioning, bugs etc. reported will be updated/upgraded as soon as possible. 
