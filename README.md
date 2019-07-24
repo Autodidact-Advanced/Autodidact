@@ -24,7 +24,7 @@ Runs on all major Linux distributions.
 
 Currently Autodidact is provided with single user  licence in student, institutional and commercial versions with demo and instruction manual (for overseas a soft copy). Licence fee for institutes (registered professors) are nearly half of the usual single user licences fees' provided as a special promotional package. Just support the opensource community as it has future. Special promotional distributions for a class at very affordable prices at one go. If more than 100 licences are needed at one go, it is better to be an Autodidact supported institute, which brings its own additional advantages. Every Autodidact licence is supported for two years including updates and upgrades. Special features could be implemented on request unless it is counter-intuitive to the process of common learning. For malfunctioning, bugs etc. reported will be updated/upgraded as soon as possible. 
 
-
+https://github.com/Autodidact-Advanced/Autodidact-Advanced/blob/master/autodidact1.png
 
 
 
